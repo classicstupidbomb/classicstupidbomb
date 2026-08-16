@@ -1,4 +1,4 @@
-## Hi there 👋
+hello everynyan this is an alt i wont be checking this much ok bye
 
 <!--
 **classicstupidbomb/classicstupidbomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
